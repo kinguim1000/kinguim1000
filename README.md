@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning react and db using JS
 - 💞️ I’m looking to collaborate on anything
 - 👍 love u guys <3 
+- I'm a begginer
