@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kinguim1000
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning react and db using JS
+- 💞️ I’m looking to collaborate on anything
+- 👍 love u guys <3 
