@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @kaua.nichioka
+- Looking for new adventures
